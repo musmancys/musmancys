@@ -148,7 +148,7 @@ I enjoy:
 
 <p>
 
-<a href="www.linkedin.com/in/muhammad-usman-874ba1388">
+<a href="[www.linkedin.com/in/muhammad-usman-874ba1388](https://www.linkedin.com/in/muhammad-usman-874ba1388/)">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
