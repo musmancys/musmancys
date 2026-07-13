@@ -144,15 +144,23 @@ I enjoy:
 
 ---
 
-# Connect With Me
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/musmancys)
+<a href="www.linkedin.com/in/muhammad-usman-874ba1388">
 
----
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 
-<div align="center">
+</a>
+
+<a href="mailto:musman200823@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
 
 ### Thanks for visiting!
 
