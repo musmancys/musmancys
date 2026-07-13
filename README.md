@@ -1,6 +1,8 @@
-<!-- ========================================= -->
-<!--              HEADER / BANNER              -->
-<!-- ========================================= -->
+<div align="center">
+
+<img src="assets/banner.png" width="100%"/>
+
+</div>
 ![Visitors](https://komarev.com/ghpvc/?username=musmancys&color=blue)
 
 <div align="center">
