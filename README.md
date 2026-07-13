@@ -3,17 +3,6 @@
 <img src="assets/banner.png" width="100%"/>
 
 </div>
-
-<div align="center">
-
-# Muhammad Usman
-
-### Cybersecurity Student • Python Developer • Linux Enthusiast
-
-> *"Learning. Building. Securing."*
-
-</div>
-
 ---
 
 ```bash
