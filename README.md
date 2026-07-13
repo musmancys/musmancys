@@ -1,16 +1,19 @@
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=musmancys&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+
+---
 <div align="center">
 
 <img src="assets/banner.png" width="100%"/>
 
 </div>
----
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=musmancys&theme=darkhub&no-frame=true&margin-w=15"/>
-
-</p>
 ```bash
 ┌──(musmancys㉿kali)-[~]
 └─$ whoami
