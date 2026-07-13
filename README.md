@@ -1,6 +1,6 @@
-## 👀 Profile Views
+## Profile Views
 
-<p align="center">
+<p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=musmancys&label=Profile%20Views&color=0e75b6&style=flat"/>
 
