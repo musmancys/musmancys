@@ -132,7 +132,27 @@ I enjoy:
 </div>
 
 ---
+## 💻 Live Terminal
 
+```bash
+┌──(musmancys㉿kali)-[~]
+└─$ watch -n 1 github contributions
+
+Initializing...
+
+████████████████████████████
+
+Loading contribution map...
+
+✓ Snake initialized.
+
+```
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musmancys/musmancys/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</p>
+```
 # Goals for 2026
 
 - Build 20+ Python projects
