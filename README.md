@@ -147,11 +147,13 @@ Loading contribution map...
 ✓ Snake initialized.
 
 ```
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musmancys/musmancys/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
+
 ```
 # Goals for 2026
 
