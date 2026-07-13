@@ -143,25 +143,6 @@ I enjoy:
 - Build Security Tools
 
 ---
-
-## 📫 Connect With Me
-
-<p>
-
-<a href="[www.linkedin.com/in/muhammad-usman-874ba1388](https://www.linkedin.com/in/muhammad-usman-874ba1388/)">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="mailto:musman200823@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
 ### Thanks for visiting!
 
 *"Stay curious. Keep learning. Build something meaningful."*
