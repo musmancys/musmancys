@@ -110,17 +110,6 @@ I enjoy:
 <img src="https://streak-stats.demolab.com?user=musmancys&theme=github-dark&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=musmancys&theme=github-dark&hide_border=true"/>
-
-</div>
-
 ---
 ## 💻 Live Terminal
 
