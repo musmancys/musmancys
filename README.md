@@ -103,14 +103,6 @@ I enjoy:
 | Packet Sniffer | Networking project |
 
 ---
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=musmancys&theme=github-dark&hide_border=true"/>
-
-</div>
----
 ## 💻 Live Terminal
 
 ```bash
