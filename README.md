@@ -1,16 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=110&section=header" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d91&height=110&section=header" width="100%" alt="banner" />
 
 <!-- Terminal typing intro: sudo apt upgrade -> name -->
 <p align="center">
   <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF41&background=0D1117&width=640&height=210&multiline=true&repeat=false&lines=PhantomRoot%40kali%3A%7E%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Upgrading+system...+Done.;PhantomRoot%40kali%3A%7E%24+whoami;Muhammad+Usman" alt="terminal intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=2F81F7&background=0D1117&width=640&height=210&multiline=true&repeat=false&lines=PhantomRoot%40kali%3A%7E%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Upgrading+system...+Done.;PhantomRoot%40kali%3A%7E%24+whoami;Muhammad+Usman" alt="terminal intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
+  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
+  <img src="https://komarev.com/ghpvc/?username=musmancys&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" />
 </p>
 
 ---
@@ -19,9 +20,8 @@
 
 ```bash
 PhantomRoot@kali
---------------
+----------------
 OS        : Kali Linux
-Uni       : UET Lahore, Computer Engineering (AICT / Cybersecurity)
 Languages : Python, Java, C#
 Editor    : VS Code
 Focus     : Cybersecurity, Software Development
@@ -34,25 +34,37 @@ Looking   : Cybersecurity internships, collabs on student & open-source projects
 
 ### `~$ cat about.md`
 
-I'm a **Computer Engineering student (AICT / Cybersecurity)** at **UET Lahore** who learns by building. I enjoy turning ideas into working tools, from desktop apps and ML algorithms written from scratch to security utilities and AI-powered platforms.
+I'm a **cybersecurity student** who learns by building. I enjoy turning ideas into working tools, from desktop apps and ML algorithms written from scratch to security utilities and AI-powered platforms.
+
+---
+
+### `~$ cat focus.txt`
+
+```bash
+[+] Cryptography & encryption basics
+[+] Phishing awareness & email analysis
+[+] Vulnerability assessment & checklists
+[+] Password security
+[+] Linux / Kali Linux workflows
+```
 
 ---
 
 ### `~$ ls ~/skills`
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/PyQt5-0D1117?style=for-the-badge&logo=qt&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/PyQt5-0D1117?style=for-the-badge&logo=qt&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=2F81F7" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2F81F7" />
 </p>
 
 ---
@@ -84,11 +96,30 @@ I'm a **Computer Engineering student (AICT / Cybersecurity)** at **UET Lahore** 
 
 ---
 
+### `~$ cat interests.txt`
+
+```bash
+> Gaming, game modding & server administration
+> Game development with Unity + C#
+> Customizing my Linux desktop
+> Building tools from scratch to understand how they work
+```
+
+---
+
 ### `~$ git stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=musmancys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmancys&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=musmancys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musmancys&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=musmancys&hide_border=true&background=0D1117&stroke=1F6FEB&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&currStreakLabel=2F81F7&sideNums=c9d1d9&sideLabels=2F81F7&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musmancys&bg_color=0D1117&color=2F81F7&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 ---
@@ -97,16 +128,16 @@ I'm a **Computer Engineering student (AICT / Cybersecurity)** at **UET Lahore** 
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2F81F7" />
   </a>
   <a href="https://github.com/musmancys">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2F81F7" />
   </a>
 </p>
 
 ```bash
 $ echo "Security is not a product, it's a process." -- Bruce Schneier
-$ _
+$ exit
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=90&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d91,100:000000&height=90&section=footer" width="100%" alt="footer" />
