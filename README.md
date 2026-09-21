@@ -3,14 +3,15 @@
 <!-- Kali-style terminal typing intro: sudo apt upgrade -> name -->
 <p align="center">
   <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=340&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Reading+state+information...+Done;Calculating+upgrade...+Done;0+upgraded%2C+0+newly+installed%2C+0+to+remove.;%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman;I+am+a+STRUGGLER+%F0%92%88%AD" alt="terminal intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=370&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Reading+state+information...+Done;%5B%2A%5D+Loading+security+toolkit...+Done;%5B%2A%5D+Establishing+secure+connection...+Connected;%5B%2B%5D+Root+access+granted.;%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman;I+am+a+STRUGGLER" alt="terminal intro" />
   </a>
 </p>
+
+<h1 align="center">𒉭</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
-  <img src="https://img.shields.io/badge/Interned-DecodeLabs_%7C_CodeAlpha-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
   <img src="https://img.shields.io/badge/Status-Open_to_opportunities-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
   <img src="https://komarev.com/ghpvc/?username=musmancys&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" />
 </p>
@@ -167,17 +168,6 @@ certs
 </p>
 
 ---
-
-### `~$ ./contact.sh`
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammadusman-874ba1388">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2F81F7" />
-  </a>
-  <a href="https://github.com/musmancys">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2F81F7" />
-  </a>
-</p>
 
 ```bash
 $ cat quote.txt
