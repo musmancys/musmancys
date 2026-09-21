@@ -3,7 +3,7 @@
 <!-- Terminal typing intro: sudo apt upgrade -> name -->
 <p align="center">
   <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF41&background=0D1117&width=640&height=210&multiline=true&repeat=false&lines=musmancys%40kali%3A%7E%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Upgrading+system...+Done.;musmancys%40kali%3A%7E%24+whoami;Muhammad+Usman" alt="terminal intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF41&background=0D1117&width=640&height=210&multiline=true&repeat=false&lines=PhantomRoot%40kali%3A%7E%24+sudo+apt+upgrade;Reading+package+lists...+Done;Building+dependency+tree...+Done;Upgrading+system...+Done.;PhantomRoot%40kali%3A%7E%24+whoami;Muhammad+Usman" alt="terminal intro" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### `~$ neofetch`
 
 ```bash
-musmancys@kali
+PhantomRoot@kali
 --------------
 OS        : Kali Linux
 Uni       : UET Lahore, Computer Engineering (AICT / Cybersecurity)
