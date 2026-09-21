@@ -168,17 +168,6 @@ certs
 
 ---
 
-### `~$ ./contact.sh`
-
-<p>
-  <a href="www.linkedin.com/in/muhammad-usman-874ba1388">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2F81F7" />
-  </a>
-  <a href="https://github.com/musmancys">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2F81F7" />
-  </a>
-</p>
-
 ```bash
 $ echo "Security is not a product, it's a process." -- Bruce Schneier
 $ exit
