@@ -171,7 +171,7 @@ certs
 ### `~$ ./contact.sh`
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammadusman-874ba1388">
+  <a href="www.linkedin.com/in/muhammad-usman-874ba1388">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2F81F7" />
   </a>
   <a href="https://github.com/musmancys">
