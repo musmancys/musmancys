@@ -3,17 +3,15 @@
 <!-- Kali-style terminal typing intro -->
 <p align="center">
   <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=250&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+.%2Finit_phantomroot.sh;Initializing+environment...+Done;Loading+security+modules...+Done;Establishing+secure+connection...+Connected" alt="terminal intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=175&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+.%2Fphantomroot_deploy.sh;Initializing+environment...+Done;Loading+security+modules...+Done;Establishing+secure+connection...+Connected" alt="terminal intro" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=100000&color=FF3B30&background=0D1117&width=700&height=30&repeat=false&lines=%5B%2B%5D+Root+access+granted." alt="root access granted" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=100000&color=FF3B30&background=0D1117&width=700&height=28&repeat=false&lines=%5B%2B%5D+Root+access+granted." alt="root access granted" />
 </p>
-
 <p align="center">
   <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=70&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman" alt="whoami" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=105&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman" alt="whoami" />
   </a>
 </p>
 
@@ -94,10 +92,7 @@ Comfortable in **Kali Linux and Python**, growing in **Java and C#**, and always
 | 🎮 **Game Library Manager** | Steam-inspired desktop app to organise and browse a game collection | Python, PyQt5, SQLite |
 | 🔐 **[DecodeLabs Security Series](https://github.com/musmancys/decodelabs_tasks)** | Caesar cipher, password strength checker, phishing email analyser, system vulnerability checklist | Python |
 | 🐍 **CodeAlpha Python Projects** | Hangman game, Stock Portfolio Tracker, Task Automation script, Basic Chatbot | Python |
-| 🧠 **KNN & K-Means** | Machine learning algorithms implemented from scratch, no external ML libraries | Python |
 | 🧮 **Scientific Calculator** | Dark-themed calculator with a clean GUI | Python, Tkinter |
-| 🕹️ **Snake Game** | Terminal Snake built on the curses module | Python |
-| 🎵 **Music Player** | GUI music player | Python, PyQt5 |
 | 📄 **Paragraph Analyser** | Text analysis tool for paragraphs | Python |
 
 <p align="center">
