@@ -1,18 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d91&height=110&section=header" width="100%" alt="banner" />
 
-<!-- Kali-style terminal typing intro -->
+<!-- Kali-style terminal intro: blue block -> red line -> blue block, all stacked with no gaps -->
 <p align="center">
-  <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=175&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+.%2Fphantomroot_deploy.sh;Initializing+environment...+Done;Loading+security+modules...+Done;Establishing+secure+connection...+Connected" alt="terminal intro" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=100000&color=FF3B30&background=0D1117&width=700&height=28&repeat=false&lines=%5B%2B%5D+Root+access+granted." alt="root access granted" />
-</p>
-<p align="center">
-  <a href="https://github.com/musmancys">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=105&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman" alt="whoami" />
-  </a>
+  <a href="https://github.com/musmancys"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=115&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+sudo+init+6;Initializing+environment...+Done;Loading+security+modules...+Done;Establishing+secure+connection...+Connected" alt="terminal intro" /></a><br><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=800&pause=100000&color=FF3B30&background=0D1117&width=700&height=24&repeat=false&lines=%5B%2B%5D+Root+access+granted." alt="root access granted" /><br><a href="https://github.com/musmancys"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=18&duration=1800&pause=300&color=2F81F7&background=0D1117&width=700&height=70&multiline=true&repeat=false&lines=%E2%94%8C%E2%94%80%E2%94%80%28PhantomRoot%E3%89%BFkali%29-%5B%7E%5D;%E2%94%94%E2%94%80%24+whoami;Muhammad+Usman" alt="whoami" /></a>
 </p>
 
 <p align="center">
