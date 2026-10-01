@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a3d91&height=110&section=header" width="100%" alt="banner" />
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/musmancys/musmancys/main/assets/intro.svg" alt="terminal intro" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OS-Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=2F81F7&labelColor=0D1117&color=1F6FEB" />
   <img src="https://img.shields.io/badge/Status-Open_to_opportunities-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" />
