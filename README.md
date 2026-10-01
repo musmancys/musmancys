@@ -77,16 +77,34 @@ Comfortable in **Kali Linux and Python**, growing in **Java and C#**, and always
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌾 **Agrova AI** | Multimodal precision agriculture platform: visual crop disease diagnosis, voice-first AI agronomist, local weather/soil dashboard, English/Urdu toggle | FastAPI, PyTorch, Whisper, JS |
-| 🎮 **Game Library Manager** | Steam-inspired desktop app to organise and browse a game collection | Python, PyQt5, SQLite |
+| 🌾 **[Agrova AI](https://github.com/musmancys/Agrova-Ai)** | Multimodal precision agriculture platform: visual crop disease diagnosis, voice-first AI agronomist, local weather/soil dashboard, English/Urdu toggle | FastAPI, PyTorch, Whisper, JS |
+| 🎮 **[Game Library Manager](https://github.com/musmancys/Python/tree/main/GameLibraryManager)** | Steam-inspired desktop app to organise and browse a game collection | Python, PyQt5, SQLite |
 | 🔐 **[DecodeLabs Security Series](https://github.com/musmancys/decodelabs_tasks)** | Caesar cipher, password strength checker, phishing email analyser, system vulnerability checklist | Python |
-| 🐍 **CodeAlpha Python Projects** | Hangman game, Stock Portfolio Tracker, Task Automation script, Basic Chatbot | Python |
+| 🐍 **[CodeAlpha Python Projects](https://github.com/musmancys/codealpha_tasks)** | Hangman game, Stock Portfolio Tracker, Task Automation script, Basic Chatbot | Python |
 | 🧮 **Scientific Calculator** | Dark-themed calculator with a clean GUI | Python, Tkinter |
 | 📄 **Paragraph Analyser** | Text analysis tool for paragraphs | Python |
 
 <p align="center">
+  <a href="https://github.com/musmancys/Agrova-Ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancys&repo=Agrova-Ai&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
+  </a>
+  <a href="https://github.com/musmancys/cybervault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancys&repo=cybervault&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/musmancys/decodelabs_tasks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancys&repo=decodelabs_tasks&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
+  </a>
+  <a href="https://github.com/musmancys/codealpha_tasks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancys&repo=codealpha_tasks&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/musmancys/Python/tree/main/GameLibraryManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancys&repo=Python&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=c9d1d9&icon_color=2F81F7" />
   </a>
 </p>
 
